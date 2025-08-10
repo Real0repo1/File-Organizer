@@ -1,0 +1,17 @@
+# Smart File Organizer
+
+A tool that organizes files into folders based on their extensions.
+
+## Features
+- Automatically creates folders for each file type.
+- Moves files into their corresponding folders.
+- Simple and modern interface with `customtkinter`.
+- Supports any folder path.
+
+## Requirements
+- Python 3.x
+- `customtkinter`
+
+Install dependencies:
+```bash
+pip install customtkinter
